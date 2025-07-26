@@ -1,0 +1,48 @@
+abg
+1 x2
+2 x3 
+2 x4
+0 Yetenek
+7 kıdemli
+8 güve
+9 kalp
+----------------------------
+HADES 
+1x4
+2 sab
+3 rsb
+6 yetenek
+7 kıdemli
+8 burgu
+9 kalp
+*****************************
+Eternal
+1x2
+2 rsb
+3 x3
+4 cpu
+5 kıdemli
+6 yetenek
+7 burgu
+8 güve
+9 kalp
+0 x4
+*******************************
+INVOKE(SADECE İKİNCİ KONFİYE KAMUFLE)
+1 Abl
+5 kamufle
+6 yetenek
+8 burgu
+9 kalp
+*************************************
+LOW
+1e x2 Ya da x3
+2x4
+3 Rsb
+6 yetenek
+7 çark
+8 güve
+9 kalp
+
+TAKİP
+1 abl 2 rsb 3 yetenek 4 ema 5 kamu 6 insta güve kap burgu     
